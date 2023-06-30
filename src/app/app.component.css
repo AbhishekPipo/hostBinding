@@ -1,0 +1,39 @@
+.container{
+    width: 1024px;
+    margin-left: auto!important;
+    margin-right: auto!important;
+    padding-top:35px;
+    
+}
+.change-font{
+font-size: 40px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.highlight{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px lightblue;
+}
+
+.info-container {
+    margin: 10px 30px;
+    padding: 10px 30px;
+  }
+  
+  .notice {
+    background-color: #F58041;
+  }
+  
+  .btn {
+    width: 120px;
+    height: 35px;
+    border: none;
+    
+  }
+  
+  .btn-noticed {
+    margin: 10px 30px;
+    background-color: #F58041;
+  }
+  
